@@ -163,7 +163,7 @@ p::selection {
 	margin-bottom: 32px;
 }
 
-.hero-img-wrapper img {
+.hero__img-wrapper img {
 	width: 510;
 	height: 510;
 	object-fit: cover;
@@ -174,7 +174,7 @@ p::selection {
 	margin-bottom: 245px;
 }
 
-.main-info-line {
+.main__info__line {
 	width: 80px;
 	height: 3px;
 	background-color: #ff7500;
