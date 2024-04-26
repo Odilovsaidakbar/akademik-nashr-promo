@@ -251,12 +251,12 @@ p::selection {
 	justify-content: space-between;
 }
 
-.promo-info {
+.promo__info {
 	min-width: 440px;
 	width: 100%;
 }
 
-.promo-heading {
+.promo__heading {
 	margin-top: 0;
 	margin-bottom: 24px;
 	font-weight: 700;
@@ -265,17 +265,17 @@ p::selection {
 	letter-spacing: 0.5px;
 }
 
-.promo-text {
+.promo__text {
 	margin-top: 0;
 	margin-bottom: 12px;
 }
 
-.promo-text2 {
+.promo__text2 {
 	margin-top: 0;
 	margin-bottom: 24px;
 }
 
-.promo-span {
+.promo__span {
 	color: #ff7500;
 	font-weight: 700;
 }
